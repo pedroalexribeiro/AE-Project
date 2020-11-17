@@ -112,10 +112,7 @@
   <folder name="Technology &amp; Physical" id="id-81e07a8e141d44d0bdc397ed3bc94cd3" type="technology"/>
   <folder name="Motivation" id="id-23af777c103441b18f61abccca9ba83e" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-0289c70da7ba4d518f5406feffb40703" type="implementation_migration"/>
-  <folder name="Other" id="id-225e26173100476bb371e37f376cf5e5" type="other">
-    <element xsi:type="archimate:Location" name="Serpins" id="id-b2404db2e39943329f77fabe14ea4c37"/>
-    <element xsi:type="archimate:Location" name="Lousã" id="id-6a057e4ae73f433facdc450be5c7cba2"/>
-  </folder>
+  <folder name="Other" id="id-225e26173100476bb371e37f376cf5e5" type="other"/>
   <folder name="Relations" id="id-fe7bafb1fd2940b983869eaca71bd7b4" type="relations">
     <element xsi:type="archimate:CompositionRelationship" id="id-511876b237c94ff793700a7f490c65cd" source="id-7506573f30cc46c2a67fe26804834736" target="id-9eee1ba75fc4489fa3e270122979215d"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-8044d6a90bbd4ba5a26040909c59ee4b" source="id-b3c861d7b82d4d97940869a512365c4b" target="id-c7bb1b41bcd34800b9bd1d70598cb8ed"/>
@@ -283,12 +280,6 @@
         <child xsi:type="archimate:DiagramObject" id="id-eccd5837f893442a8e22fc5a6ac60071" targetConnections="id-76f620a0ffa74b5bb44dcd75a5152945" archimateElement="id-7aaf777c7d1f4e218401d9cfe0de545f">
           <bounds x="24" y="768" width="205" height="55"/>
         </child>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-bfcca50fb04c4674a2cf68442f5c20f0" archimateElement="id-b2404db2e39943329f77fabe14ea4c37">
-        <bounds x="552" y="108" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-caada0127f634d39b0af05b2f5626ad9" archimateElement="id-6a057e4ae73f433facdc450be5c7cba2">
-        <bounds x="936" y="108" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-d5f8be817b6841f08242ce5eba0e4825" archimateElement="id-dfd9fe97032b46fb8d550ac297b4c197">
         <bounds x="540" y="240" width="529" height="61"/>
